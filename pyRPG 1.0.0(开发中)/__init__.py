@@ -2,7 +2,7 @@
 版本:1.0.0
 主要开发者:箱子,九亿
 最近修改时间:2021-04-24
-版权所有:Fuider
+版权所有:Programming Teenager Club, PTC, 编程少年团
 """
 
 import pygame 
@@ -11,7 +11,7 @@ import os,sys
 import time
 from PIL import Image
 
-print("版权归fuider所有")
+print("版权归 '编程少年团' 所有")
 
 
 '<global>'
